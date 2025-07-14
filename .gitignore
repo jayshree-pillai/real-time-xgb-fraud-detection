@@ -1,0 +1,8 @@
+Steps to get it up and running: 
+## Delete the lamdba triggers connected to kinesis stream
+# Start the endpoint;
+# Start the SNS and SQS 
+# Start the Kinesis dataStream;
+# Create the Triggers on lambda; Wait for 5mins;
+# Run KickSart.ipnb
+
