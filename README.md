@@ -31,16 +31,12 @@ This project simulates real-time financial transaction monitoring and detects fr
 Evaluated on 50K test samples with randomized noise on 20% of features
 
 Metrics:
-
 Precision: 97.9%
-
 Recall: 95.9%
-
 F1 Score: 96.9%
-
 Avg Inference Latency: <1µs (batch mode, in-memory)
-
 Confirms strong generalization and production readiness for real-time deployment
+
 ---
 ## 🧪 Data Simulation
 
