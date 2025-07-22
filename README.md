@@ -4,6 +4,13 @@ An end-to-end production-ready fraud detection pipeline using AWS services for r
 
 ---
 
+## 🎬 Demo
+
+▶️ [Watch 3-min Video Demo](https://hatketech-demos.s3.amazonaws.com/fraud-demo.mp4)  
+*Full pipeline walkthrough with XGBoost model, Kinesis streaming, SageMaker inference, and SNS alerting.*
+
+---
+
 ## 🚀 Overview
 
 This project simulates real-time financial transaction monitoring and detects fraudulent activity using an XGBoost model hosted on SageMaker. The system integrates:
